@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #004d00; /* Warna hijau gelap */
+    color: white;
+}
+
+header .navbar {
+    margin-bottom: 20px;
+}
+
+header .carousel {
+    height: 300px;
+    overflow: hidden;
+}
+
+header .carousel img {
+    height: 300px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #004d00;
+    color: white;
+    padding: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+a.nav-link  {
+    font-size: 20px !important;   
+    color: black;
+    font: 100;
+}
